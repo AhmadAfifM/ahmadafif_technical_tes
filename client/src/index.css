@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(215, 215, 215) !important;
+}
+
+.text-in-navbar {
+  font-size: 30px;
+  font-weight: 700;
+  padding-top: 10px;
+}
+
+.content-home-page {
+  margin-top: 20px;
+}
+
+.drop-down-home {
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.modal-add {
+  min-width: 1100px !important;
+}
+
+.card-on-home {
+  margin-top: 50px;
+}
+
+.cards-on-home {
+  display: flex;
+  flex-direction: row;
+}
+
+.img-logo {
+  width: 100px;
+  height: 250px;
+  padding: 10px;
+}
